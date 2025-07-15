@@ -81,9 +81,9 @@ Features:
 
 ## 📦 Setup Instructions
 
-### Frontend
 
 ```bash
+### Frontend
 git clone https://github.com/YOUR-USERNAME/Pomodoro.git
 cd Pomodoro
 pnpm install
