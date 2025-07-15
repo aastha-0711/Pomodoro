@@ -84,7 +84,19 @@ Features:
 ### Frontend
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pomodoro-frontend.git
-cd pomodoro-frontend
-npm install
-npm run dev
+git clone https://github.com/YOUR-USERNAME/Pomodoro.git
+cd Pomodoro
+pnpm install
+pnpm dev
+
+###Backend
+git clone https://github.com/YOUR-USERNAME/Pomodoro.git
+cd Pomodoro
+cd backend
+pnpm install
+pnpm dev
+
+###API
+Refer to the other repository mentioned above which has the python logic and API.
+.\venv\Scripts\activate
+uvicorn app.main:app --reload
